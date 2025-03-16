@@ -1,5 +1,6 @@
 {
-    "version": 8,
+    "$schema": "https://gitlab.kitware.com/cmake/cmake/-/blob/master/Help/manual/presets/schema.json",
+    "version": 9,
     "configurePresets": [
         {
             "name": "base",
