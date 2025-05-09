@@ -1,10 +1,10 @@
 cmake_minimum_required(VERSION 3.30)
 
 # Our main project.
-project(MyCMakeProject)
+project(MyCMakeProject) # Rename to whatever you want.
 
 add_executable(
-    my_cmake_project
+    my_cmake_project  # Rename to whatever you want.
         "code/main.cpp"
 )
 
